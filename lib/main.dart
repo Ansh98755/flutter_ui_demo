@@ -22,7 +22,6 @@ class MyApp extends StatelessWidget
           fit: BoxFit.cover,
         ),
       ),
-
         SingleChildScrollView(
         child: Column(
           // mainAxisAlignment: MainAxisAlignment.end,
@@ -82,7 +81,6 @@ class MyApp extends StatelessWidget
                   ),
                 ],
               ),
-
             ),
             SizedBox(height: 33),
             Padding(
